@@ -1,0 +1,13 @@
+.Table {
+background-color: rgb(146, 146, 146);
+border-spacing: 1px;
+}
+
+.Thead{
+
+    background-color:rgba(178, 237, 255, 0.768);
+}
+
+.Tbody{
+    background-color: rgba(202, 252, 192, 0.815);
+}
