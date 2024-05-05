@@ -1,14 +1,12 @@
-import './App.css'
-import MovieTitle from './components/movieTitle/MovieTitle';
+import Login from "./componentes/login/Login"
 
 function App() {
-  
+
   return (
-    <div>
-      <h1>Peliculas dirigidas por Cristopher Nolan.</h1>
-        <MovieTitle />
-    </div>
-  );
+      <div>
+		<Login/>
+      </div>
+  )
 }
 
 export default App
